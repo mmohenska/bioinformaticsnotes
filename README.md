@@ -1,1 +1,1 @@
-# bioinformaticsnotes
+# Bioinformatics Notes
